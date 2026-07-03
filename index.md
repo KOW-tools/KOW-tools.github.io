@@ -2,14 +2,14 @@
 layout: home
 hero:
   name: KOW Tools
-  text: Useful Developer Tools
-  tagline: A collection of free, open-source tools for developers
+  text: A collection of free, open-source tools by KOWX712
+  tagline: A collection of free, open-source tools
   image:
     src: /favicon.svg
     alt: KOW Tools
   actions:
     - theme: brand
-      text: Browse Tools
+      text: Browse
       link: /tools/markdown-printer/
     - theme: alt
       text: GitHub
