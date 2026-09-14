@@ -15,7 +15,16 @@ hero:
       text: GitHub
       link: https://github.com/KOW-tools
 features:
-  - title: Markdown Printer
+  - icon:
+      src: /markdown-printer.svg
+      alt: Markdown Printer
+    title: Markdown Printer
     details: Convert and print markdown documents with perfect formatting
     link: /tools/markdown-printer/
+  - icon:
+      src: /wish-export.svg
+      alt: Wish Export
+    title: Wish Export
+    details: Export wish history URLs from Genshin Impact, Honkai Star Rail, and Zenless Zone Zero
+    link: /tools/wish-export/
 ---

@@ -25,6 +25,7 @@ export default defineConfig({
           text: 'Tools',
           items: [
             { text: 'Markdown Printer', link: '/tools/markdown-printer/' },
+            { text: 'Wish Export', link: '/tools/wish-export/' },
             // Add more tools here as you create them
             // { text: 'Video Converter', link: '/tools/video-converter/' },
           ]

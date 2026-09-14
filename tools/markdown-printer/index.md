@@ -1,6 +1,12 @@
+<div align="center">
+
+<img src="/markdown-printer.svg" alt="Markdown Printer Logo" width="256">
+
 # [Markdown Printer](https://tools.kowx712.cc/markdown-printer/)
 
 Markdown Printer is a free, open-source, **pure static** markdown editor and previewer, everything runs entirely in your browser, ensuring your content never leaves your machine.
+
+</div>
 
 ## Features
 
