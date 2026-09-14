@@ -14,13 +14,13 @@
   "devEngines": {
     "packageManager": {
       "name": "pnpm",
-      "version": "^11.9.0",
+      "version": "^12.4.1",
       "onFail": "download"
     }
   },
   "type": "module",
   "devDependencies": {
     "vitepress": "^1.6.4",
-    "vue": "^3.5.39"
+    "vue": "^3.5.42"
   }
 }
