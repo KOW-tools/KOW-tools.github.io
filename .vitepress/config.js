@@ -22,12 +22,16 @@ export default defineConfig({
     sidebar: {
       '/tools/': [
         {
-          text: 'Tools',
+          text: 'General',
           items: [
             { text: 'Markdown Printer', link: '/tools/markdown-printer/' },
+          ]
+        },
+        {
+          text: 'Android Apps',
+          items: [
             { text: 'Wish Export', link: '/tools/wish-export/' },
-            // Add more tools here as you create them
-            // { text: 'Video Converter', link: '/tools/video-converter/' },
+            { text: 'Hoyolab Automation', link: '/tools/hoyolab-automation/' },
           ]
         }
       ]

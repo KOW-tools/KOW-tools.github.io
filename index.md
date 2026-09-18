@@ -27,4 +27,10 @@ features:
     title: Wish Export
     details: Export wish history URLs from Genshin Impact, Honkai Star Rail, and Zenless Zone Zero
     link: /tools/wish-export/
+  - icon:
+      src: /hoyolab-automation.svg
+      alt: Hoyolab Automation
+    title: Hoyolab Automation
+    details: Automate your daily HoYoLAB check-ins for all HoYoverse games
+    link: /tools/hoyolab-automation/
 ---
